@@ -9,7 +9,7 @@ package jenkins
 import (
 	"fmt"
 	"hash"
-	"leb.io/hashland/nhash"
+	"github.com/tildeleb/hashland/nhash"
 	"unsafe"
 )
 

@@ -5,7 +5,7 @@ package hashtable
 import (
 	"fmt"
 	"github.com/tildeleb/cuckoo/primes"
-	"leb.io/hashland/hashf"
+	"github.com/tildeleb/hashland/hashf"
 	"time"
 )
 
